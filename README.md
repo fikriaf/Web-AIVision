@@ -1,6 +1,6 @@
 # AI Vision Waste Classification System
 
-
+![Hasil Demo](https://github.com/fikriaf/Web-AIVision/tree/main/demo/demo1.png)
 
 ## Overview
 
