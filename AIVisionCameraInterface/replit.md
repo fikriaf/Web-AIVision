@@ -1,5 +1,7 @@
 # AI Vision Waste Classification System
 
+
+
 ## Overview
 
 This is an AI-powered waste classification application that uses computer vision to detect and categorize different types of waste materials. The system combines a React frontend with a Node.js/Express backend and a Python FastAPI service for AI processing, utilizing YOLO models for real-time object detection.
