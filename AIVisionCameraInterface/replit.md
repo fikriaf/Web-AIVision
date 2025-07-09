@@ -58,7 +58,6 @@ This is an AI-powered waste classification application that uses computer vision
 - Plastic (Plastik)
 - Glass (Kaca) 
 - Cans (Kaleng)
-- Organic (Organik)
 
 ## External Dependencies
 

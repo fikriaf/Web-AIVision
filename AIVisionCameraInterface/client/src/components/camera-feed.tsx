@@ -44,7 +44,7 @@ export function CameraFeed({ onFrameCapture, onImageCapture, detections = [], st
         if (frameData) {
           onFrameCapture(frameData);
         }
-      }, 600); // Process 10 FPS
+      }, 500); // Process 10 FPS
     } else {
       if (frameIntervalRef.current) {
         clearInterval(frameIntervalRef.current);
