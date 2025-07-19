@@ -1,0 +1,6 @@
+server/
+index.ts
+*.ts
+*.ts.map
+tsconfig.json
+drizzle.config.ts
